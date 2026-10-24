@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: obhrm-research-collaboration-team
+message: "If you use this expert package, please cite it as below."
+authors:
+  - family-names: Bu
+    given-names: Xing
+    name: Xing Bu
+license: MIT
+repository-code: "https://github.com/Lucewalk-Lumen/obhrm-research-collaboration-team"
